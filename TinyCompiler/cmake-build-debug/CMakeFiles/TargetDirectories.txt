@@ -1,0 +1,3 @@
+C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/CMakeFiles/TinyCompiler.dir
+C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

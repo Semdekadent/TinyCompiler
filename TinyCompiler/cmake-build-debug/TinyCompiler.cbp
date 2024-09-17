@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TinyCompiler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TinyCompiler">
+				<Option output="C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/TinyCompiler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/80921/CLionProjects/TinyCompiler/."/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 TinyCompiler"/>
+					<CompileFile command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TinyCompiler/fast">
+				<Option output="C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/TinyCompiler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/80921/CLionProjects/TinyCompiler/."/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="X:/Compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 TinyCompiler/fast"/>
+					<CompileFile command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="X:/Compiler/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/80921/CLionProjects/TinyCompiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/ANALYZE.C">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/ANALYZE.H">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/ANALYZE.h">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/CGEN.C">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/CGEN.H">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/CGEN.h">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/CODE.C">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/CODE.H">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/CODE.h">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/GLOBALS.H">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/PARSE.C">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/PARSE.H">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/PARSE.h">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/SCAN.C">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/SCAN.H">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/SCAN.h">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/SYMTAB.C">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/SYMTAB.H">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/SYMTAB.h">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/UTIL.C">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/UTIL.H">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/UTIL.h">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/main.c">
+			<Option target="TinyCompiler"/>
+		</Unit>
+		<Unit filename="C:/Users/80921/CLionProjects/TinyCompiler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
